@@ -1,1 +1,5 @@
 .venv
+titanic
+calculate_accuracy.py
+train.csv
+test.csv
