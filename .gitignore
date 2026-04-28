@@ -3,3 +3,4 @@ titanic
 calculate_accuracy.py
 train.csv
 test.csv
+catboost_info
